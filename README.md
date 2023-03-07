@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🌱 I'm currently a Trainee Full-Stack Software Developer at Northcoders focusing on modern technologies such as React/Express/PostgreSQL, and much more.<br>👯 I’m currently open to full stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!<br>🥅 2022 Goals: Build projects and collaborate with other amazing developers, and to create phenomenal work.
+🌱 I'm currently a Full-Stack Software Developer/ Machine Learning Enthusiast/ Data Scientist focusing on modern technologies.<br>👯 I’m currently open to full stack software development opportunities - feel free to connect with me on LinkedIn and other social media platforms!<br>🥅 2022 Goals: Build projects and collaborate with other amazing developers, and to create phenomenal work.
 
 
 ## 🌐 Socials:
